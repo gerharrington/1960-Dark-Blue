@@ -9942,8 +9942,8 @@
                     
                             
 
-                            if(ans == 13700|| ans == 13703||ans ==  13706 & condis < 15) {
-                                campaignTrail_temp.question_number = getQuestionNumberFromPk(33493);
+                           if ((ans == 13700 || ans == 13703 || ans == 13706) && condis < 15) {
+                        campaignTrail_temp.question_number = getQuestionNumberFromPk(33493);
                             }
                             if(e.running_mate_last_name==="Lodge"){
                             $("#game_window")[0].style.backgroundColor = "#633333"
@@ -10016,7 +10016,7 @@
                             if(ans == 13686||ans == 13687||ans == 13688){
                                 peace += 1
                             }
-                            if(peace==2 && e.question_number==26){
+                            if(peace == 2 && e.question_number==26) {
                                 campaignTrail_temp.question_number = getQuestionNumberFromPk(13457);
                             }
                             if(ans == 13546) {
