@@ -11,7 +11,7 @@
                             const customStyling = document.createElement("style");
                             customStyling.innerHTML = `
                             #campaign_sign {
-                                background-image: url("https://i.imgur.com/4FBGBfk.jpeg");
+                                background-image: url("https://i.imgur.com/MzBippC.jpeg");
                                 background-size: cover;
                                 border-color: #c9c9c9;    
                                 border-width: .01em;
