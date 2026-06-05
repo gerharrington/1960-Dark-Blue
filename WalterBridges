@@ -9950,7 +9950,7 @@
                             const customStyling = document.createElement("style");
                             customStyling.innerHTML = `
                             #campaign_sign {
-                                background-image: url("https://i.imgur.com/yJN7B8y.png");
+                                background-image: url("https://i.imgur.com/RnBkGl5.jpeg");
                                 background-size: cover;
                                 border-color: #c9c9c9;    
                                 border-width: .01em;
@@ -10083,7 +10083,7 @@
                             const customStyling = document.createElement("style");
                             customStyling.innerHTML = `
                             #campaign_sign {
-                                background-image: url("https://i.imgur.com/d1VwFhM.png");
+                                background-image: url("https://i.imgur.com/J5dhmiQ.jpeg");
                                 background-size: cover;
                                 border-color: #c9c9c9;    
                                 border-width: .01em;
